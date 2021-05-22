@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bitcoinski
+- 👀 I’m interested in tinkering
+- 🌱 I’m currently learning ML / Distributed Networks
+- 💞️ I’m looking to collaborate on NFT projects
+- 📫 How to reach me: twitter @bitcoinski
